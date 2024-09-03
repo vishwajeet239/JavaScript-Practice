@@ -4,4 +4,4 @@ let brr=arr.reduce((a,c)=>{
     return a+c;
 });
 
-console.log(brr);
+console.log(brr); // hello
